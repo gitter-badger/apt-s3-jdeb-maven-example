@@ -3,6 +3,8 @@ http:
   adminPort: 8081
   rootPath: /v1/*  # Default is /*
 
+some_setting: 10
+
 logging:
   level: info
   # Settings for logging to a file.
