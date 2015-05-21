@@ -1,6 +1,8 @@
 apt-s3-jdeb-maven-example
 =========================
 
+[![Join the chat at https://gitter.im/appuri/apt-s3-jdeb-maven-example](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/appuri/apt-s3-jdeb-maven-example?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 In a continuously-integrating, horizontally scalable, always available world
 we need reliable and convenient ways of distributing our services. What better
 way than a debian package? Hosting your own private debian repository means
